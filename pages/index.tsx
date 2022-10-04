@@ -18,7 +18,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="md:cols-start-3 bg-white px-4 py-6 md:col-span-10 md:py-6 md:pr-8">
+          <div className="md:cols-start-3 bg-white px-4 py-6 md:col-span-11 md:py-6 md:pr-8">
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-4">
                 <Image
